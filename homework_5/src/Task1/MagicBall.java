@@ -57,7 +57,7 @@ class MagicBall {
     }
 //здесь абзац (пробел строки) не нужен)
 //здесь абзац (пробел строки) не нужен)
-    pubpic static boolean getRandomAnswer() {
+    private static boolean getRandomAnswer() {
         return new Random().nextBoolean();
     }
    
