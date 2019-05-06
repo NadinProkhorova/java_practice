@@ -21,15 +21,13 @@ public class Task1 {
        // num2 = num2 * num1new;// узнать результат с помощью умножения
         //System.out.println(num2);
 
-
         for (int i = 0; i < num1new; i++ ) {
 
             sum += num2;
-
         }
+
         System.out.println(sum);
 
     }
-
 }
 
